@@ -35,8 +35,8 @@ Evaluate the trained model using test data and use it to predict the customer se
 
 ## PROGRAM
 
-### Name: AHIL SANTO A
-### Register Number: 212224040018
+### Name: SUBASH M
+### Register Number: 212224220109
 
 ```python
 # Define Neural Network(Model1)
@@ -82,23 +82,20 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## Dataset Information
 
-<img width="1191" height="242" alt="image" src="https://github.com/user-attachments/assets/8c310b54-5115-49ae-ab17-ceacfaeb026f" />
+<img width="1222" height="238" alt="Screenshot 2026-02-17 205710" src="https://github.com/user-attachments/assets/94c9d054-e0c5-40e8-8509-5a49dfe42d0a" />
+
 
 ## OUTPUT
 
 ### Confusion Matrix
 
-<img width="649" height="551" alt="image" src="https://github.com/user-attachments/assets/75eda3ba-c4d2-49fa-9425-21c2c4dcc09c" />
+<img width="998" height="719" alt="Screenshot 2026-02-17 205649" src="https://github.com/user-attachments/assets/0d21aa1d-509b-458e-bad4-f163acc4b59b" />
 
 
 ### Classification Report
-
-<img width="1211" height="648" alt="image" src="https://github.com/user-attachments/assets/b07597b7-c923-4b51-9c2e-f1a0ff4a57f2" />
-
-
 ### New Sample Data Prediction
 
-<img width="1608" height="173" alt="image" src="https://github.com/user-attachments/assets/83d7f5da-85ac-499c-8c69-27702b558570" />
+<img width="875" height="654" alt="Screenshot 2026-02-17 205615" src="https://github.com/user-attachments/assets/422f1aee-74f4-473d-9413-ac27746ff433" />
 
 
 ## RESULT
